@@ -7,8 +7,8 @@ return [
     'smtp_host' => 'smtp.ukr.net',
     'smtp_port' => '2525',
     'smtp_protocol' => 'ssl',
-    'smtp_login' => 'sqrt3000@ukr.net',
-    'smtp_password' => '44104010',
+    'smtp_login' => '',
+    'smtp_password' => '',
     'img_user_width' => 160,
     'img_user_height' => 160,
 ];
